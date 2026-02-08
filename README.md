@@ -69,30 +69,7 @@ Boundary Address Testing
 
 Reset Behavior Verification
 
-📂 Project Structure
-mem_uvm_project/
-│
-├── rtl/
-│   └── memory.v
-│
-├── tb/
-│   ├── mem_interface.sv
-│   ├── mem_pkg.sv
-│   ├── mem_test.sv
-│   └── top.sv
-│
-├── uvm_tb/
-│   ├── sequence_item.sv
-│   ├── sequence.sv
-│   ├── driver.sv
-│   ├── monitor.sv
-│   ├── agent.sv
-│   ├── env.sv
-│   ├── scoreboard.sv
-│   └── coverage.sv
-│
-└── sim/
-    └── run.do / compile.do
+
 
 ▶️ Simulation Steps
 
