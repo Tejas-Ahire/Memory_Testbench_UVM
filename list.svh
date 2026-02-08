@@ -1,0 +1,12 @@
+`include "common_class.sv"
+`include "memory.sv"
+`include "transaction.sv"
+`include "gen_class.sv"
+`include "interface_class.sv"
+`include "bfm_class.sv"
+`include "coverage_class.sv"
+`include "monitor_class.sv"
+`include "agent_class.sv"
+`include "scoreBoard_class.sv"
+`include "env_class.sv"
+
